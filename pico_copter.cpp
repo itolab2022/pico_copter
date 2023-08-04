@@ -1,3 +1,5 @@
+//ruiki
+
 #include "pico_copter.hpp"
 
 //グローバル変数
